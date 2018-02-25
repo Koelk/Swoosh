@@ -84,7 +84,7 @@
             android:layout_marginStart="16dp"
             android:layout_weight="1"
             android:background="@drawable/swoosh_toggle"
-            android:onClick="onBallerCLick"
+            android:onClick="onBallerClick"
             android:text="@string/baller"
             android:textColor="@android:color/white"
             android:textOff="@string/baller"
